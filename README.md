@@ -7,32 +7,42 @@ This project demonstrates my understanding of frontend web development fundament
 __________________________________________________________________________________
 
 2. Novelty of the Project
+   
 This project stands out due to the following points:
+
 Personal Portfolio Presentation
 •	Shows my education, skills, projects, research, and contact details in one place
 •	Works like a digital resume and profile
+
 Clean and Simple Design
 •	Designed to look neat and student-made
 •	Balanced layout without too many complex features
+
 Responsive Web Layout
 •	Adjusts properly for desktop 
 •	Makes the website easy to use on different devices
+
 Organized Information Display
 •	Separate sections for About, Skills, Experience, Projects, Research, and Contact
 •	Helps visitors understand my profile clearly
+
 Basic JavaScript Interactivity
 •	Mobile navigation menu for small screens
 •	Simple contact form validation
+
 __________________________________________________________________________________
 
 3. Technology Stack
+   
 Frontend Technologies
 HTML
 •	Used to create the structure of the website
 •	Includes headings, sections, navigation bar, cards, and contact form
+
 CSS
 •	Used for styling and page layout
 •	Handles colors, spacing, responsive design, buttons, and card design
+
 JavaScript
 •	Used for basic interactivity
 •	Responsive Web Design

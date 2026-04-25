@@ -1,3 +1,5 @@
+The project was solely made for Web Programming project by Parth Garg(24BCI0115).
+
 1. Introduction
 The Portfolio Website is a simple personal web project created to present my academic background, technical skills, projects, research work, and contact details in one place. The website acts as an online profile where anyone can quickly learn about me, my education at VIT Vellore, my internship experience, and the work I have done in different technical areas. 
 
